@@ -50,22 +50,22 @@ function App() {
       <hr className="border border-dark border-1 opacity-100 mb-0" />
       <div className="grad container-fluid pt-5">
         <div className="container d-flex justify-content-between flex-wrap">
-          <div className="hovr1 my-5">
-            <div className="d-flex justify-content-sm-between hovr">
+          <div className=" my-5">
+            <div className="d-flex justify-content-sm-between ">
               <div className="fs-6">Contact</div>
               <div className="d-flex align-items-center ms-lg-5  margo">
                 <i className="fa-solid fa-greater-than"></i>
               </div>
             </div>
-            <hr className="border border-dark border-1 opacity-25 hovr" />
+            <hr className="border border-dark border-1 opacity-25 " />
             <div className="my-5">
-              <div className="d-flex justify-content-sm-between hovr">
+              <div className="d-flex justify-content-sm-between ">
                 <div className="fs-6">Locations</div>
                 <div className="d-flex align-items-center margo">
                   <i className="fa-solid fa-greater-than"></i>
                 </div>
               </div>
-              <hr className="border border-dark border-1 opacity-25 hovr" />
+              <hr className="border border-dark border-1 opacity-25 " />
             </div>
           </div>
           <div className="d-flex flex-column my-3">
@@ -77,13 +77,13 @@ function App() {
             <div className="mb-3 hovr">Annual report 2022</div>
           </div>
           <div className="d-flex flex-column my-3">
-            <div className="opacity-50 hovr1">Share price</div>
+            <div className="opacity-50 ">Share price</div>
             <div>
               {" "}
-              <span className="fs-3 hovr1">286.40</span>{" "}
+              <span className="fs-3 ">286.40</span>{" "}
               <span className="opacity-50">CHF</span>{" "}
             </div>
-            <div className="fs-5 hovr1">
+            <div className="fs-5 ">
               <span>
                 <i className="fa-solid fa-arrow-trend-down text-danger"></i>
               </span>{" "}
@@ -92,7 +92,7 @@ function App() {
           </div>
         </div>
         <div className="container my-5">
-          <hr className="border border-dark border-1 opacity-25 hovr" />
+          <hr className="border border-dark border-1 opacity-25 " />
         </div>
         <div className="container ">
           <div className="container mt-5 pb-5 row text-center">
@@ -110,13 +110,13 @@ function App() {
             </div>
             <div className="d-flex flex-column  col-md-8 col-12">
               <div className="container d-flex mt-3 mt-sm-0 justify-content-center">
-                <small className="opacity-50 hovr mt-3 mt-sm-0">
+                <small className="opacity-50  mt-3 mt-sm-0">
                   Privacy policy
                 </small>
-                <small className="opacity-50 ms-4 hovr mt-3 mt-sm-0">
+                <small className="opacity-50 ms-4  mt-3 mt-sm-0">
                   Legal statement
                 </small>
-                <small className="opacity-50 ms-4 hovr mt-3 mt-sm-0">
+                <small className="opacity-50 ms-4  mt-3 mt-sm-0">
                   Cookies
                 </small>
               </div>
