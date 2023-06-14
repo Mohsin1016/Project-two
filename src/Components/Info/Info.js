@@ -20,7 +20,7 @@ const Info = () => {
               <div className="row">
                 <div className="col-12 col-sm-6 mx-auto">
                   <div className="my-5 text-center">
-                    <a type="button" href="/" className="button p-3">
+                    <a type="button" href="/" className="button p-3 ">
                       More about personalised healtcare
                     </a>
                   </div>
